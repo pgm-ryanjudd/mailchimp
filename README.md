@@ -11,6 +11,7 @@ In het begin van de opdracht zijn we begonnen door te overleggen. Hier hebben we
 ## Mail
 
 Er werd naar 35 mensen een mail gestuurd.
+
 ![participants](participants.png)
 
 Deze mail was gestyled zodat het een beetje leek op de site. Het bevatte ook een afbeelding van de landings pagina. Dit diende als voorbeeld van de pagina.
@@ -27,3 +28,11 @@ Hieronder zal je 2 grafieken vinden voor de 2 verplichte vragen.
 Zoals je kan zien is het gemiddelde op beide vragen een 7.
 
 De derde vraag werd maar door **6** van de deelnemers beantwoord. Maar we zijn zeker tevreden met de antwoorden dat we op deze vraag gekregen hebben.
+
+Hier kan je ook nog eens zien hoeveel mensen er effectief een antwoord verstuurd hebben.
+
+![](sent_answers.png)
+
+## Conclusie
+
+Ik heb uit deze opdracht geleerd hoe je een programma zoals mailchimp kunt gebruiken om een groot doelpubliek aan te spreken. Hiermee kan je meer informatie ophalen over je doelpubliek.
